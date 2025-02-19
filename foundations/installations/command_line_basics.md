@@ -139,3 +139,4 @@ This section contains helpful links to related content. It isn't required, so co
 
 - The online book, [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial), is a great resource for mastering the command line. Chapters 1 and 2 are free and provide a good introduction to command line tools. The rest of the book is not free and goes into more depth than you really need at this point, but feel free to buy and read the rest of the book if you like.
 - [Command Line Flashcards](https://flashcards.github.io/command_line/introduction.html) by flashcards.github.io.
+- [The Unix Shell](https://swcarpentry.github.io/shell-novice/) by swcarpentry.github.io.
